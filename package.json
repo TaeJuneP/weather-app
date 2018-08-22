@@ -10,7 +10,22 @@
   },
   "dependencies": {
     "expo": "^29.0.0",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz"
-  }
+    "react": "^16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "watchman": "^1.0.0",
+    "yarn": "^1.9.4"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaeJuneP/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaeJuneP/weather-app/issues"
+  },
+  "homepage": "https://github.com/TaeJuneP/weather-app#readme",
+  "description": ""
 }
